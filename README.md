@@ -8,4 +8,8 @@ I obtained this data from the datahub.io website. I extracted the dataset of the
 
 # Processing steps 
 
+# Visualizations
 
+# Analysis
+
+# Descriptions of Code and Materials
