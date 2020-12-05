@@ -25,5 +25,8 @@ I first made scatter plots for the columns before trying find the relationships 
    We can see that the scatter plots for the home teams shots taken and goals scored are different from the scatter plots of the away teams shits taken and goals scored.
    
 # Analysis
+In order to find out the relationship between the shots taken and goals, I first combined the home and away team stats for shots taken and goals scored 
+
+
 
 # Descriptions of Code and Materials
