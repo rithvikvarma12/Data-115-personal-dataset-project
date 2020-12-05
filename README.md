@@ -18,7 +18,7 @@ Once I finished processing the data, I started to wonder about the relationships
 I first made scatter plots for the columns before trying find the relationships between the shots taken and goals scored
 
 <table>
-  <tr><td><img src=""></td><td><img src=""></td><td><img src=""></td><td><img src=""></td></tr>
+  <tr><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTHG.PNG"></td><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTAG.PNG"></td><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/HS.PNG"></td><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/AS.PNG"></td></tr>
    <tr><td>Home Team Goals</td><td>Away team Goals</td><td>Home Team shots</td><td>Away Team shots</td></tr>
   </table>
   
