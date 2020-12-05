@@ -37,7 +37,7 @@ From these two figures, we can see a picture forming. On average Home Teams take
 This is backed up by analysis. There is a moderately strong positive correlation between home team shots and home team goals scored. Away team shots taken and away team goals also have a moderately strong correlation. Although, home teams have a slighty stronger correlation between their shots taken and goals scored. This means that home teams score more goals from their shots when compared to away teams.
 
 <table>
-  <tr><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTHG%20VS%20HS.PNG"></td><td><img src=""></td></tr>
+  <tr><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTHG%20VS%20HS.PNG"></td><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTAG%20VS%20AS.PNG"></td></tr>
    <tr><td>Home Team Shots taken Vs Home team Goals</td><td> Away Team shots taken vs Away team goals scored</td></tr>
   </table>
 
