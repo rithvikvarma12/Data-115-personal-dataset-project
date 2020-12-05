@@ -7,7 +7,9 @@ I decided to make this project based on soccer. So, While browsing the internet 
 I obtained this data from the datahub.io website. I extracted the dataset of the 2018-2019 english Premier League season from the football dataset section of the datahub.io website. The website sourced this data from the website www.football-data.co.uk
 
 # Processing steps 
-The datset that I had procured needed to be processed. The main issue with the dataset was that it was faily large. This meant that some columns did not show up on jupyter notebook as the dataset was being compressed. This meant that I needed to make a new dataset from the existing dataset. The new dataset combines all the columns that I require.
+The datset that I had procured needed to be processed. The main issue with the dataset was that it was faily large. This meant that some columns did not show up on jupyter notebook as the dataset was being compressed. This means that a new dataset from the existing dataset had to be made. The Processing 2018-2019 ibynb file extracts columns from the existing dataset and combines them to create a new dataset that shows all the columns that are required.
+
+
 
 # Visualizations
 
