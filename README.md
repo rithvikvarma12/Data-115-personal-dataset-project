@@ -28,7 +28,7 @@ I first made scatter plots for the columns before trying find the relationships 
 In order to find out the relationship between the shots taken and goals, I first combined the home and away team stats for shots taken and goals scored 
 
 <table>
-  <tr><td><img src=""></td><td><img src=""></td></tr>
+  <tr><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTHG%20VS%20FTAG.PNG"></td><td><img src="https://github.com/rithvikvarma12/Data-115-personal-dataset-project/blob/main/HS%20VS%20AS.PNG"></td></tr>
    <tr><td>Home Team & Away Team Goals</td><td>Home Team & Away Team shots</td></tr>
   </table>
 
