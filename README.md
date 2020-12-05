@@ -11,7 +11,7 @@ The datset that I had procured needed to be processed. The main issue with the d
 
 The new dataset looks like this :
 
-https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/processing%20data.PNG
+![Snippet of new processed dataset](https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/processing%20data.PNG)
 
 
 
