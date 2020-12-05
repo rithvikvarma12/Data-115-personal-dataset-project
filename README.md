@@ -40,7 +40,12 @@ This is backed up by analysis. There is a moderately strong positive correlation
   <tr><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTHG%20VS%20HS.PNG"></td><td><img src="https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/FTAG%20VS%20AS.PNG"></td></tr>
    <tr><td>Home Team Shots taken Vs Home team Goals</td><td> Away Team shots taken vs Away team goals scored</td></tr>
   </table>
-
+  
+  Finally, I have combined the home and away teams stats to find out the relationship between the goals scored and shots taken for the entire league at the end of the season.
+  
+  ![Snippet of new processed dataset](https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/processing%20data.PNG)
+  
+  
 
 
 
