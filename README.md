@@ -43,7 +43,7 @@ This is backed up by analysis. There is a moderately strong positive correlation
   
   Finally, I have combined the home and away teams stats to find out the relationship between the goals scored and shots taken for the entire league at the end of the season.
   
-  ![Snippet of new processed dataset](https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/processing%20data.PNG)
+  ![Snippet of TS vs TG](https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/TG%20VS%20TS.PNG)
   
   
 
