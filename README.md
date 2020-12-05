@@ -16,6 +16,10 @@ The new processed dataset looks like this :
 # Visualizations
 Once I finished processing the data, I started to wonder about the relationships between the different columns of the dataset. I wanted to find out if there was a strong or weak correlation of the number of shots taken with the number of goals scored by the teams. Since the data for shots taken is divided among the away and home teams.I first made scatter plots for the columns before trying find the relationships between the shots taken and goals scored
 
+<table>
+  <tr><td><img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/Senate_MDS.png"></td><td><img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/House_MDS.png"></td><td><img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/EP_MDS.png"></td><td><img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/EP_MDS.png"></td></tr>
+   <tr><td>US Senate</td><td>US House</td><td>European Parliament</td><td>jj</td></tr>
+  </table>
 
 
 
