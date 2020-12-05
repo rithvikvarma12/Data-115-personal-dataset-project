@@ -13,9 +13,12 @@ The new processed dataset looks like this :
 
 ![Snippet of new processed dataset](https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/processing%20data.PNG)
 
-
-
 # Visualizations
+Once I finished processing the data, I started to wonder about the relationships between the different columns of the dataset. I wanted to find out if there was a strong or weak correlation of the number of shots taken with the number of goals scored by the teams. Since the data for shots taken is divided among the away and home teams.I first made scatter plots for the columns before trying find the relationships between the shots taken and goals scored
+
+
+
+
 
 # Analysis
 
