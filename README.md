@@ -9,6 +9,10 @@ I obtained this data from the datahub.io website. I extracted the dataset of the
 # Processing steps 
 The datset that I had procured needed to be processed. The main issue with the dataset was that it was faily large. This meant that some columns did not show up on jupyter notebook as the dataset was being compressed. This means that a new dataset from the existing dataset had to be made. The Processing 2018-2019 ibynb file extracts columns from the existing dataset and combines them to create a new dataset that shows all the columns that are required.
 
+The new dataset looks like this :
+
+https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/processing%20data.PNG
+
 
 
 # Visualizations
