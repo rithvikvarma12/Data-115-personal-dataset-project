@@ -32,7 +32,11 @@ In order to find out the relationship between the shots taken and goals, I first
    <tr><td>Home Team & Away Team Goals</td><td>Home Team & Away Team shots</td></tr>
   </table>
 
-From these two figures, we can see a picture forming. On average Home Teams take more shots and they also score more goals. This means, that teams performed better at home
+From these two figures, we can see a picture forming. On average Home Teams take more shots and they also score more goals than away teams. This means, that teams performed better at home
+
+Next, I combined the goals scored and shots taken into one graph for home and away teams separately.
+
+
 
 
 # Descriptions of Code and Materials
