@@ -45,7 +45,7 @@ This is backed up by analysis. There is a moderately strong positive correlation
   
   ![Snippet of TS vs TG](https://raw.githubusercontent.com/rithvikvarma12/Data-115-personal-dataset-project/main/TG%20VS%20TS.PNG)
   
-  We can see from the scatter plot that there is a positive relationship between toal goals scored and total shots. THis is backed up by analysis which shows that there is a moderately strong positive realtionship between toal goals scored and total shot at the end of the season.
+  We can see from the scatter plot that there is a positive relationship between toal goals scored and total shots. This is backed up by analysis which shows that there is a moderately strong positive realtionship between toal goals scored and total shot at the end of the season.
   
 # Descriptions of Code and Materials
 
