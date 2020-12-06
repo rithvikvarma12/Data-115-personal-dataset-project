@@ -1,4 +1,4 @@
-# English Premier league 2018-29 dataset
+# English Premier league 2018-19 dataset
 
 # Motivation
 I decided to make this project based on soccer. So, While browsing the internet for some datsets, I found a few datasets that seemed to have pretty good data for entire seasons of the english Premier league which is the highest division of english soccer.Being pretty intrigued, I went through the data. Naturally, this led to some questions. This led to me comparing between different data columns. The Main question Im trying to answer is what is the relationship between the number of shots taken and the number of goals scored by the home and away teams and how this differs to the relationship between the goals scored and shots taken by the entire league at the end of the season.
