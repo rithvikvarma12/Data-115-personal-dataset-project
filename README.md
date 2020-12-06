@@ -47,6 +47,8 @@ This is backed up by analysis. There is a moderately strong positive correlation
   
   We can see from the scatter plot that there is a positive relationship between toal goals scored and total shots. This is backed up by analysis which shows that there is a moderately strong positive realtionship between toal goals scored and total shot at the end of the season.
   
+  The entire leagues correlation between goals and shots taken is greater than the away teams correlation between goals and shots taken but lesser than home teams correlation between goals and shots taken
+  
 # Descriptions of Code and Materials
 
 The dataset collected from the sources described above is contained in the csv file. The figures shown are containted in the PNG's. There is one jupyter notebook which contains the new dataset and the generated figures. 
